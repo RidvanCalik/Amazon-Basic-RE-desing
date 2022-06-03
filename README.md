@@ -11,9 +11,14 @@
 
 
 
-you can run with this code:
+<br>
+<br>
+Im still learning so... you may meet a bug or bugs or both 
+if you still run this project... 
+<br>  
 
 ### `npm start`
+
 
 And you can build with this code
 ### `npm run build`
