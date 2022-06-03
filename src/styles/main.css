@@ -1,0 +1,23 @@
+#main {
+    margin: 0 auto;
+    padding: 0 10px;
+    display: flex;
+    gap: 20px;
+    max-width: 1480px;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: rgb(234, 237, 237);
+    ;
+
+}
+
+#banner {
+    height: 250px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
