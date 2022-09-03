@@ -1,6 +1,3 @@
-# This is Ramazon.
-# thats means React-Amazon or Rıdvan-Amazon (use what you want).
-
  I learning React so I need to make a project to understand  
  thats project use:  
  <br>
